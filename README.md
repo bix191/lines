@@ -1,1 +1,1 @@
-# lines
+昔8bitパソコンのサンプルBasicプログラムで見たやつをWindowsで再現してみた。
